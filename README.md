@@ -80,3 +80,26 @@ Understanding the color styles and typography used in a Figma mockup is critical
 
 Each role is crucial to the project’s success, ensuring that the product is not only functional but also user-centered, well-tested, and delivered efficiently.
 
+
+## UI Component Patterns
+
+### Navbar
+- Includes logo, search bar, and user navigation
+- Mobile-responsive with a collapsible menu
+- Appears on all major pages
+
+### Property Card
+- Displays property image, name, price, rating, and location
+- May include a “favorite” (heart) button
+- Used in grid/list view on the property listing page
+
+### Footer
+- Contains site navigation links (About, Terms, Privacy)
+- Displays social media icons
+- Includes copyright
+
+### Additional (Future) Components
+- **Search Filters:** Dropdowns, checkboxes, and sliders for filtering results
+- **Booking Form:** Collects user info and handles booking confirmation
+- **Image Gallery:** Scrollable image viewer for property pages
+- **Authentication Modals:** Login/Signup forms
