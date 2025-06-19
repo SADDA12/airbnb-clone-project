@@ -44,3 +44,24 @@ A full-stack clone of the popular accommodation booking platform, AirBnB. This p
 ### Importance of a User-Friendly Design
 A user-friendly booking system reduces friction in the user journey, leading to higher conversion rates and customer satisfaction. Clear navigation, fast-loading pages, responsive design, and an intuitive interface help users easily search, explore, and book accommodations without confusion or frustration. Accessibility and consistency are key pillars of the user experience.
 
+#### Color Styles
+- **Primary Color:** `#FF5A5F`
+- **Secondary Color:** `#008489`
+- **Background Color:** `#FFFFFF`
+- **Primary Text Color:** `#222222`
+- **Secondary Text Color:** `#717171`
+
+#### Typography
+- **Primary Font Family:** Circular
+- **Font Weights:**
+  - **Headings:** Bold (700)
+  - **Body:** Medium (500), Book (400)
+- **Font Sizes:**
+  - Headings: 24px – 32px
+  - Body Text: 16px
+  - Secondary Text: 14px
+
+#### Impoertance of identifying design properties of a mock up design
+Understanding the color styles and typography used in a Figma mockup is critical for maintaining **visual consistency** across the app. It ensures the final product accurately reflects the design vision and improves **user experience**, **readability**, and **brand identity**. Using the exact fonts, colors, and spacing enhances the **professional look** of the site and builds user trust.
+
+
