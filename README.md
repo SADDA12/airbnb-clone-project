@@ -65,3 +65,18 @@ A user-friendly booking system reduces friction in the user journey, leading to 
 Understanding the color styles and typography used in a Figma mockup is critical for maintaining **visual consistency** across the app. It ensures the final product accurately reflects the design vision and improves **user experience**, **readability**, and **brand identity**. Using the exact fonts, colors, and spacing enhances the **professional look** of the site and builds user trust.
 
 
+## Project Roles and Responsibilities
+
+| **Role**              | **Responsibilities**                                                                                      |
+|------------------------|------------------------------------------------------------------------------------------------------------|
+| **Project Manager**    | Oversees the project timeline, assigns tasks, facilitates communication, and ensures on-time delivery.    |
+| **Frontend Developers**| Build the UI components based on Figma designs, ensure responsive layouts, and integrate frontend logic.   |
+| **Backend Developers** | Develop APIs, manage the database, and implement business logic to power the frontend experience.          |
+| **Designers**          | Create wireframes and mockups in Figma, maintain the design system, and ensure user-friendly UX.           |
+| **QA/Testers**         | Write test cases, identify bugs, perform functional and regression testing, and ensure the app meets standards. |
+| **DevOps Engineers**   | Set up CI/CD pipelines, manage deployment infrastructure, and monitor the production environment.           |
+| **Product Owner**      | Defines the product vision and requirements, prioritizes features, and represents stakeholder interests.   |
+| **Scrum Master**       | Facilitates agile ceremonies (standups, sprint reviews), removes blockers, and encourages team collaboration. |
+
+Each role is crucial to the project’s success, ensuring that the product is not only functional but also user-centered, well-tested, and delivered efficiently.
+
